@@ -1,1 +1,1 @@
-<img src="./front-end-programming.png" width="480" height="480" />
+<img src="./front-end-programming.png" width="320" height="320" />

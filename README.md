@@ -11,7 +11,7 @@ From user flows to architecture and production delivery.</p>
 
 <p>
   <a href="https://github.com/evscoder?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&labelColor=ffffff&color=ffffff&logo=github&logoColor=000000" alt="GitHub — evscoder" /></a>
-  <a href="https://evstdev.vercel.app/"><img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About me" /></a>
+  <a href="https://dev.evgenystaroverov.com/"><img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About me" /></a>
   <a href="https://t.me/evgenystaroverov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Get in touch on Telegram" /></a>
   <a href="https://www.linkedin.com/in/evgst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 </p>
